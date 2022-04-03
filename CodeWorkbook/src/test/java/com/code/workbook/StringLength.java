@@ -9,7 +9,7 @@ public class StringLength {
 
 	public static void main(String[] args) {
 		
-		String str = "Selenium Code Test", strArr[];
+		String str = "Selenium Code Test 1", strArr[];
 		int count = 0;
 		
 		strArr = str.split("");
